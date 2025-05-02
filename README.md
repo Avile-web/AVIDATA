@@ -5,7 +5,9 @@ Technical skills: Power BI, Power Query, Google Sheets, Mysql
 ### EDUCATION 
 BSc(Hons) in Geography, University of Johannesburg (2019)
 
-BSc in Life and Environmental Sciences (2018)
+BSc in Life and Environmental Sciences, University of Johannesburg (2018)
+
+ALX Data Analytics Cohort, (2024)
 
 ### WORK EXPERIENCE
 Data Analyst @ Department of Water and Sanitation(DWS) -(June 2023-Present)
@@ -20,10 +22,10 @@ Data Analyst @ Department of Water and Sanitation(DWS) -(June 2023-Present)
   sector data visualisation in Power BI.
   
 • Participated in external and internal stakeholder meetings to discuss data-sharing and governance in the 
-  Western Cape region.
+   Western Cape region.
   
 • Collaborated with cross-functional teams to ensure seamless integration of water sector data into 
-  organisation-wide systems and monitoring programmes
+   organisation-wide systems and monitoring programmes
   
 • Managed and analysed large datasets to support data-driven decision-making within the Western Cape's 
   Regional water sector.
