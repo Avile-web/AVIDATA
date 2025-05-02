@@ -1,12 +1,12 @@
-#DATA ANALYST
+# DATA ANALYST
 
 Technical skills: Power BI, Power Query, Google Sheets, Mysql
 
-##EDUCATION 
+### EDUCATION 
 BSc(Hons) in Geography, University of Johannesburg
 BSc in Life and Environmental Sciences
 
-###WORK EXPERIENCE
+### WORK EXPERIENCE
 Data Analyst @ Department of Water and Sanitation(DWS) -(June 2023-Present)
 • Collected data from various water resources every month to support quarterly reports.
 • Preparing comprehensive scientific reports by using and analysing data from the Water Management System.
