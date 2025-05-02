@@ -10,7 +10,7 @@ BSc in Life and Environmental Sciences, University of Johannesburg (2018)
 ALX Data Analytics Cohort, (2024)
 
 ### WORK EXPERIENCE
-# Data Analyst @ Department of Water and Sanitation(DWS) -(June 2023-Present)
+Data Analyst @ Department of Water and Sanitation(DWS) -(June 2023-Present)
 
 • Collected data from various water resources every month to support quarterly reports.
 
