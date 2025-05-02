@@ -4,6 +4,7 @@ Technical skills: Power BI, Power Query, Google Sheets, Mysql
 
 ### EDUCATION 
 BSc(Hons) in Geography, University of Johannesburg
+
 BSc in Life and Environmental Sciences
 
 ### WORK EXPERIENCE
