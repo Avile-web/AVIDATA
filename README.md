@@ -1,4 +1,5 @@
 #DATA ANALYST
+
 Technical skills: Power BI, Power Query, Google Sheets, Mysql
 
 ##EDUCATION 
