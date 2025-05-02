@@ -37,4 +37,3 @@ ALX Data Analytics Cohort, (2024)
 
 • Designing spatial maps utilising SQL on Arcgis Pro.
 
-###
