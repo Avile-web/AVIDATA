@@ -1,4 +1,6 @@
-# DATA ANALYST
+# AVILE MBENYA
+                           Hi there, my name is Avile. I am enthusiastic about data and the value it can bring to any organisation and serve in making informed decision-making.
+                           I recently completed a certification with ALX where I learnt Power BI, Google Sheets and Mysql. See information below to get to know me better:
 
 #### Technical skills: Power BI, Power Query, Google Sheets, Mysql
 
